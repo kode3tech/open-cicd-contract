@@ -169,10 +169,14 @@ This repository is a specification. These documents have distinct roles:
 - [contracts/v1/CONTRACT-open-cicd-contract.md](contracts/v1/CONTRACT-open-cicd-contract.md): the normative contract interface (`cicd:*` tasks, ordering, inputs/outputs, conventions)
 - [rfcs/RFC-0001-open-cicd-contract.md](rfcs/RFC-0001-open-cicd-contract.md): motivation, scope boundaries, and architectural rationale
 - [examples/](examples/): non-normative provider and Control Plane examples
+- **[docs/GETTING-STARTED.md](docs/GETTING-STARTED.md)**: step-by-step guide to adopting the specification
+- **[docs/MIGRATION-GUIDE.md](docs/MIGRATION-GUIDE.md)**: how to migrate existing pipelines
+- **[docs/FAQ.md](docs/FAQ.md)**: frequently asked questions
 
 If you want to contribute or adopt this specification in your organization:
 
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to contribute (including RFC-style changes)
+- [docs/README.md](docs/README.md): detailed guides for evolving the specification
 - [GOVERNANCE.md](GOVERNANCE.md): decision-making and roles
 - [VERSIONING.md](VERSIONING.md): semantic versioning rules for the specification
 - [CHANGELOG.md](CHANGELOG.md): release notes

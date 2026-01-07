@@ -32,6 +32,10 @@ This project uses an RFC-driven workflow:
 If your change modifies the contract interface (tasks, ordering, inputs/outputs, conventions), it MUST be proposed as a change to the contract document.
 If your change introduces a new concept or rule, it SHOULD be justified in an RFC.
 
+For a detailed step-by-step workflow (RFC → contract → examples → release), see:
+
+- `docs/README.md`
+
 ## Pull request guidelines
 
 - Keep changes small and reviewable
